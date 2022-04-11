@@ -1,4 +1,4 @@
-# Damage-classifier
+#Task 2.1 Damage-classifier
 Goal of this notebook: <br> To classify whether the image contains damaged or un-dmages cars.<br>
 Approach: Deep learning <br>
 Framework used: Tensorflow<br>
